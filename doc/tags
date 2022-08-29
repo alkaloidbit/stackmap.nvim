@@ -1,0 +1,2 @@
+stackmap.nvim	stackmap.txt	/*stackmap.nvim*
+stackmap.push()	stackmap.txt	/*stackmap.push()*
